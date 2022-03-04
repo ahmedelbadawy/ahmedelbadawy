@@ -3,7 +3,7 @@
     
 </p>
 
-
+<br>
 <p float="center"  align="center">
 
  <a href="https://twitter.com/Ahmedelbadwy25">
@@ -75,6 +75,8 @@ I am a bachelor student at Cairo University, majoring in Biomedical Engineering.
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+-----
+  
 <br>
 
 ### :zap: GitHub Stats
