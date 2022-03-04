@@ -1,24 +1,25 @@
 <p>
   <h1><b>Hi, I am Ahmed Elbadawy! <img src="icons/web-development.png" alt="" width="40"></h1>
-</p>
-
-
-
-<p float="center"  align="center">
+    <p float="right"  align="center">
 
  <a href="https://twitter.com/Ahmedelbadwy25">
-  <img align="center" alt="Badawy's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Badawy's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>  
 &nbsp;
 
 <a href="https://www.linkedin.com/in/ahmed-elbadawy-0b6984180/">
-  <img align="center" alt="Badawy's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Badawy's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 &nbsp;
 <a href="https://github.com/ahmedelbadawy">
-  <img align="center" alt="Ashwani's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="right" alt="Ashwani's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <p/>
+</p>
+
+
+
+
 
 
 
