@@ -4,7 +4,7 @@
 </p>
 
 <br>
-<p float="center"  align="center">
+<p float="center"  align="left">
 
  <a href="https://twitter.com/Ahmedelbadwy25">
   <img align="center" alt="Badawy's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
