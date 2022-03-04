@@ -24,12 +24,10 @@
 
 ## About <img alt="Badawy's about" width="30" src="icons/icons8-about-30.png" />
 
----
 
 I am a bachelor student at Cairo University, majoring in Biomedical Engineering. <img src="icons/bioengineering.png" alt="" width="30">
  Passionate about Data Science, Machine Learning, Bioinformatic, and Medical Imaging. Also, have some experience in web Development and Embeded systems.
 
- ---
 
  <p align="center">
  <img  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -38,59 +36,41 @@ I am a bachelor student at Cairo University, majoring in Biomedical Engineering.
  **Languages and Tools:**  
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-&nbsp;
 
 
 <img align="left" alt="c++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-&nbsp;
 
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-&nbsp;
 
 <img align="left" alt="R" width="26px" src="icons/icons8-java-48.png" />
-&nbsp;
 
 <img align="left" alt="Java" width="26px" src="icons/r.png" />
-&nbsp;
 
 <img align="left" alt="embedded systems" width="26px" src="https://micro.ros.org/img/logonav.png" />
-&nbsp;
 
 <img align="left" alt="matlab" width="26px" src="https://doc.opendtect.org/6.0.0/doc/od_userdoc/content/resources/images/appendix_f/matlab.jpeg" />
-&nbsp;
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-&nbsp;
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-&nbsp;
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-&nbsp;
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-&nbsp;
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-&nbsp;
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-&nbsp;
 
 <img align="left" alt="jupyter" width="26px" src="icons/icons8-tensorflow-48.png" />
-&nbsp;
 
 <img align="left" alt="jupyter" width="26px" src="icons/kisspng-logo-scikit-learn-python-github-portable-network-g-go-to-image-page-5b77997b685cc0.7719358615345647314275.png" />
-&nbsp;
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-&nbsp;
 
 <img align="left" alt="jupyter" width="26px" src="icons/icons8-jupyter-48.png" />
-&nbsp;
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-&nbsp;
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
