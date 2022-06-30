@@ -48,7 +48,7 @@
 
 <img align="left" alt="embedded systems" width="26px" src="https://micro.ros.org/img/logonav.png" />
 
-<img align="left" alt="matlab" width="26px" src="https://doc.opendtect.org/6.0.0/doc/od_userdoc/content/resources/images/appendix_f/matlab.jpeg" />
+<img align="left" alt="matlab" width="26px" src="[https://doc.opendtect.org/6.0.0/doc/od_userdoc/content/resources/images/appendix_f/matlab.jpeg](https://repository-images.githubusercontent.com/420536143/482e150b-739f-4269-8f53-22cda3615d6a)" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
