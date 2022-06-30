@@ -26,7 +26,7 @@
 ### About 
 
 
->I am a bachelor student at Cairo University, majoring in Biomedical Engineering. Passionate about Data Science, Machine Learning, Bioinformatic, and Medical Imaging. Also, have some experience in web Development and Embeded systems 🤩
+>I am a bachelor's student at Cairo University, majoring in Biomedical Engineering. Passionate about Data Science, Machine Learning, bioinformatics, and Medical Imaging. Also, have some experience in web Development and Embedded systems 🤩
 
 
  <p align="center">
